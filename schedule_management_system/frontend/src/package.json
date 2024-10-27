@@ -1,9 +1,0 @@
-{
-    "dependencies": {
-      "vue": "^3.3.8",
-      "vue-router": "^4.2.5",
-      "axios": "^1.6.2",
-      "primevue": "^3.35.0",
-      "primeicons": "^6.0.1"
-    }
-  }
